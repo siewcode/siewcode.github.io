@@ -1,0 +1,79 @@
+[
+  {
+    "imgfile": "burger-9.png",
+    "alt": "burger-9",
+    "title": "Double Trouble", 
+    "description": "Two crispy chicken breasts, Parmesan cheese. Twice the joy",
+    "price": "21.90"
+  },
+  {
+    "imgfile": "burger-12.png",
+    "alt": "burger-12",
+    "title": "Spicy Dicey", 
+    "description": "Beef, bacon and some really hot sauce",
+    "price": "19.90"
+  },
+  {
+    "imgfile": "burger-10.png",
+    "alt": "burger-10",
+    "title": "Sloppy Bobby", 
+    "description": "Juicy chargrilled beef, feta cheese and onion rings",
+    "price": "14.90"
+  },
+  {
+    "imgfile": "burger-11.png",
+    "alt": "burger-11",
+    "title": "Black Mamba", 
+    "description": "Charcoal buns with sesame seed, flame-grilled beef, tomato, lettuce",
+    "price": "14.90"
+  },
+  {
+    "imgfile": "burger-7.png",
+    "alt": "burger-7",
+    "title": "Captain Nemo", 
+    "description": "Chunky pollock fish fillet paired with special mayo and coleslaw",
+    "price": "14.90"
+  },
+  {
+    "imgfile": "burger-13.png",
+    "alt": "burger-13",
+    "title": "Ultra Cheesy", 
+    "description": "Grilled beef with generous serving of creamy cheese and guacamole",
+    "price": "19.90"
+  },
+  {
+    "imgfile": "burger-14.png",
+    "alt": "burger-14",
+    "title": "Triple Threat", 
+    "description": "Three flame grilled beef patties. For the really hungry",
+    "price": "24.90"
+  },
+  {
+    "imgfile": "burger-15.png",
+    "alt": "burger-15",
+    "title": "Vegetarian Burger", 
+    "description": "Don't like meat? This is for you. 100% homemade vegetarian patty",
+    "price": "7.90"
+  },
+  {
+    "imgfile": "burger-16.png",
+    "alt": "burger-16",
+    "title": "Spicy Chicken Burger", 
+    "description": "Crispy fried chicken infused with secret hot spices",
+    "price": "14.90"
+  },
+  {
+    "imgfile": "burger-17.png",
+    "alt": "burger-17",
+    "title": "Combo Burger", 
+    "description": "Beef and chicken, camembert cheese, tomato, lettuce",
+    "price": "19.90"
+  },
+  {
+    "imgfile": "burger-18.png",
+    "alt": "burger-18",
+    "title": "Kimchi Burger", 
+    "description": "Grilled beef, pulled pork in special kimchi sauce",
+    "price": "19.90"
+  }
+]

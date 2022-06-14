@@ -1,0 +1,37 @@
+[
+  {
+    "imgfile": "burger-1.png",
+    "alt": "burger-1",
+    "title": "BurgerMe Special", 
+    "description": "Thick grilled homemade beef patty, bacon, cheese",
+    "price": "24.90"
+  },
+  {
+    "imgfile": "burger-2.png",
+    "alt": "burger-2",
+    "title": "Onion Beef", 
+    "description": "Fresh onion rings and a dollop of cheese over chargrilled beef",
+    "price": "19.90"
+  },
+  {
+    "imgfile": "burger-3.png",
+    "alt": "burger-3",
+    "title": "Gone Fishin", 
+    "description": "Grilled fish fillet, tangy sauce, fresh lettuce and carrots",
+    "price": "14.90"
+  },
+  {
+    "imgfile": "burger-4.png",
+    "alt": "burger-4",
+    "title": "Chicken Little", 
+    "description": "Fried chicken breast, mayo, lettuce and tomato. Kids favorite",
+    "price": "8.90"
+  },
+  {
+    "imgfile": "burger-5.png",
+    "alt": "burger-5",
+    "title": "Hey Lambo", 
+    "description": "Flame grilled lamb marinated in special moroccan sauce",
+    "price": "19.90"
+  }
+]
