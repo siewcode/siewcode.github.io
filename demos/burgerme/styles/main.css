@@ -1,0 +1,316 @@
+/* 
+  Main CSS File
+  Version: 1.0.0
+*/
+
+/*
+Table of Contents
+- Defaults
+- General
+- Hero
+- Footer
+*/
+
+
+/********************/
+/*   Set Defaults   */
+/********************/
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  object-fit: cover;
+  /* This is required for margin to take effect. Else use text align */
+  /* display: block; */
+}
+
+
+/***************/
+/*   General   */
+/***************/
+:root {
+  --primary-color: rgb(78, 52, 46);
+  --border-radius-card: 0.5rem;
+
+  /* Android recommendation is 56px or 3.5rem */
+  --app-bar-height: 3.5rem;
+}
+
+/* Layout */
+body {
+  width: 100vw;
+}
+
+main {
+  /* Account for fixed app bar */
+  margin-top: var(--app-bar-height);
+}
+
+.restrict-max-width {
+  max-width: 1000px;
+  /* This is required to center the content when going beyond 1000px */
+  margin: auto;
+}
+
+/* Brand */
+@font-face {
+  font-family: 'luckiest-guy';
+  src: url('../assets/fonts/LuckiestGuy-Regular.ttf')
+}
+
+.brand-font {
+  font-family: 'luckiest-guy', serif;
+}
+
+/* Utilities */
+.shadow {
+  box-shadow: 0rem 0.125rem 0.5rem rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  background-color: white;
+  border: 1px solid gainsboro;
+  border-radius: var(--border-radius-card);
+}
+
+
+/***************/
+/*   Section   */
+/***************/
+section {
+  margin-top: 5em;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+
+/***************/
+/*   App Bar   */
+/***************/
+.app-bar {
+  background-color: white;
+
+  display: flex;
+  justify-content: space-between;
+  
+  height: var(--app-bar-height);
+  padding: 0.5rem;
+
+  /* Fixed app bar */
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 5;
+}
+
+.app-bar .logo-container {
+  width: 3rem;
+  height: 1.5rem;
+  /* aspect-ratio: 2 / 1; */
+  align-self: flex-start;
+}
+
+.app-bar nav {
+  align-self: flex-end;
+  margin-bottom: 0.5rem;
+}
+
+.app-bar nav a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+
+/************/
+/*   Hero   */
+/************/
+.hero {
+  --hero-height: 25em;
+
+  /* Background image */
+  background-image: url('../assets/images/hamburger-hero.jpg');
+  background-repeat: none;
+  background-size: cover;
+
+  /* Height should not be tied to viewport due to orientation change */
+  height: var(--hero-height);
+  width: 100%;
+
+  /* Reference for wave svg */
+  position: relative;
+}
+
+.hero .text-container {
+  /* % of horizontal width */
+  padding-left: 5%;
+  padding-top: calc(var(--hero-height) * 0.15);
+}
+
+.hero h1 {
+  font-size: 4.5em;
+  color: white;
+}
+
+.hero .highlight {
+  --text-outline-color: antiquewhite;
+
+  color: rgb(248, 9, 137);
+  letter-spacing: 3px;
+
+  /* Text outline */
+  text-shadow: 
+    -3px 3px 0 var(--text-outline-color),
+    3px 3px 0 var(--text-outline-color),
+    3px -3px 0 var(--text-outline-color),
+    -3px -3px 0 var(--text-outline-color);
+}
+
+.wave-divider-container {
+  /* Make svg rotatable */
+  position: absolute;
+  transform: rotate(180deg);
+
+  bottom: 0;
+  left: 0;
+
+  /* Tie to hero height not viewport */
+  height: calc(var(--hero-height) * 0.15);
+  width: 100%;
+
+  /* overflow: hidden;
+  line-height: 0; */
+}
+
+.wave-divider-container svg {
+  width: 100%;
+  height: 100%;
+}
+
+.wave-divider-container .shape-fill {
+  fill: white;
+}
+
+
+/************/
+/*   Menu   */
+/************/
+.menu {
+  padding: 0.5em;
+}
+
+.menu .subtitle {
+  margin: 1em 0;
+  text-align: center;
+}
+
+.menu-item {
+  width: 14em;
+  margin: 0.75em;
+}
+
+.menu-item .image-container {
+  width: 100%;
+
+  aspect-ratio: 4 / 3;
+
+  /* Round the top of the image */
+  border-top-left-radius: var(--border-radius-card);
+  border-top-right-radius: var(--border-radius-card);
+
+  /* Center image in the container */
+  /* margin-left: auto;
+  margin-right: auto; */
+  text-align: center;
+
+  /* Pop out */
+  margin-bottom: -7em;
+}
+
+.menu-item .image-container img {
+  height: 100%;
+}
+
+.menu-item .text-container {
+  height: 17em;
+  width: 100%;
+  padding: 1em;
+  padding-top: 8em;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.menu-item .text-container p {
+  flex-grow: 1;
+  margin: 0.5em 0;
+}
+
+.menu-item .text-container small {
+  align-self: flex-end;
+}
+
+
+/*****************/
+/*   Locations   */
+/*****************/
+.locations {
+  padding: 0.5em;
+}
+
+.location-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.location-item {
+  flex: 0 1 360px;
+  margin: 1em;
+
+  /* For content inside */
+  display: grid;
+  grid-template-columns: auto 1fr;
+  padding: 1em;
+}
+
+.location-item img {
+  width: 2em;
+  margin: 0 0.5em;
+}
+
+.location-item .text-container {
+  margin-left: 1.5em;
+}
+
+.location-item .text-container address, p {
+  margin-top: 0.5em;
+}
+
+
+/***************/
+/*   Footer   */
+/**************/
+footer {
+  background-color: antiquewhite;
+  padding: 1em;
+  margin-top: 2em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+footer div {
+  padding: 0.75em;
+  flex: 0 1 300px;
+}

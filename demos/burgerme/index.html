@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Pre-loading -->
+  <link rel="preload" href="styles/main.css" as="style">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/jpg" href="assets/images/icon.png"/>
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="styles/scroll-carousel.css">
+  <link rel="stylesheet" href="styles/main.css">
+
+  <title>Burger Me</title>
+</head>
+<body>
+
+
+  <!-- Fixed App Bar -->
+  <header class="app-bar shadow">
+    <div class="logo-container">
+      <a href="#">
+        <img src="assets/images/logo-white-bg.png" alt="logo"/>
+      </a>
+    </div>
+    <nav>
+      <a href="#menu">Menu</a>
+      <a href="#locations">Locations</a>
+    </nav>
+  </header>
+
+
+  <main class="restrict-max-width">
+    
+
+    <!-- Hero -->
+    <section id="hero" class="hero">
+      <div class="text-container brand-font">
+        <h1>Eat.</h1>
+        <h1><span class="highlight">Burger!</span></h1>
+        <h1>Love.</h1>
+      </div>
+      <div class="wave-divider-container">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+          <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
+        </svg>
+      </div>
+    </section>
+
+
+    <!-- Menu -->
+    <section id="menu" class="menu">
+      <h1 class="section-title brand-font">~ Menu ~</h1>
+      
+      <h2 class="subtitle">All Time Favorites</h2>
+      <div id="menu-all-time-carousel" class="scroll-carousel">
+        <!-- JS will generate menu items here -->
+      </div>
+
+      <h2 class="subtitle">Craft Burgers</h2>
+      <div id="menu-carousel" class="scroll-carousel">
+        <!-- JS will generate menu items here -->
+      </div>
+    </section>
+
+    
+    <!-- Locations -->
+    <section id="locations" class="locations">
+      <h1 class="section-title brand-font">~ Locations ~</h1>
+      <div class="location-container">
+        <div class="location-item card">
+          <img src="assets/images/location.png" alt="location-icon">
+          <div class="text-container">
+            <h3>Royal Alfred Mall</h3>
+            <address>
+              123, Main Road <br/>
+              Some Suburb <br/>
+              10800 SOMEWHERE
+            </address>
+            <p>&#9742 123-456-7890</p>
+          </div>
+        </div>
+        <div class="location-item card">
+          <img src="assets/images/location.png" alt="location-icon">
+          <div class="text-container">
+            <h3>CYT Shopping Mall</h3>
+            <address>
+              456, Second Road <br/>
+              Another Suburb <br/>
+              20420 SOMEWHERE
+            </address>
+            <p>&#9742 123-645-9253</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+      <div>
+        <h3>BurgerMe</h3>
+        <p>Serving healthy and delicious burgers since 1990. All our ingredients are fresh and contain no preservatives.</p>
+      </div>
+      <div>
+        <h3>Contact</h3>
+        <p>
+          General: &#9742 123-111-2220 <br/>
+          Customer Support: &#9742 123-111-2219
+        </p>
+      </div>
+    </footer>
+
+
+  </main>
+
+  <script src="scripts/main.js" type="module"></script>
+</body>
+</html>
