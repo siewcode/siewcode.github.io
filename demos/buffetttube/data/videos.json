@@ -1,0 +1,520 @@
+[
+  {
+    "id": "2a9Lx9J8uSs",
+    "title": "Terry Business School speech",
+    "tags": ["long"],
+    "channel": "",
+    "onCrsl": true
+  },
+  {
+    "id": "2MHIcabnjrA",
+    "title": "Speech at Florida University",
+    "tags": ["long"],
+    "channel": "",
+    "onCrsl": true
+  },
+  {
+    "id": "6JLoU1BRdeE",
+    "title": "Interview at Georgetown",
+    "tags": ["long"],
+    "channel": "",
+    "onCrsl": false
+  },
+  {
+    "id": "Qm0jktMIYlk",
+    "title": "Just looking at price is not investing",
+    "tags": ["investing 101", "short"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "8FN5CpDR97s",
+    "title": "Proper attitude is what's more important for young investors",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "p5AWHXAs5i0",
+    "title": "Price of stock doesn't matter",
+    "tags": ["investing 101", "short"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "vHq9d0bE06s",
+    "title": "Buffett on knowing your circle of competence",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "-x8y6wRCV94",
+    "title": "Is business school worth it?",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "nPEY952ShIY",
+    "title": "I've never tried to predict interest rates",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "WRmR-uXGxsI",
+    "title": "Buffett on Berkshire risk model",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "V6bQPoPvCoM",
+    "title": "Everything in valuation gets back to interest rate",
+    "tags": ["investing 101", "short"],
+    "channel": "",
+    "onCrsl": false
+  },
+  {
+    "id": "biKr34fDb0E",
+    "title": "How Buffett decides if something is a good investment",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "vtmE_oWGprU",
+    "title": "Investing is a lot more competitive now",
+    "tags": ["short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "dkwaUtdgzZs",
+    "title": "Newspaper business is toast",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "Y2p0HjK7HHw",
+    "title": "Pandemic and the devastating effects on the airline industry",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "SEZwkbliJr8",
+    "title": "Yahoo Finance interview 3 May 2019",
+    "tags": ["long"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "RPJrYSLlX7A",
+    "title": "Biggest investing mistakes people make",
+    "tags": ["short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "nU8yjDKGLAo",
+    "title": "Advice on success and life's big decisions",
+    "tags": ["relationship", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "b5mBMS88XDs",
+    "title": "What Buffett wants to be remembered for",
+    "tags": ["others", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "BtXZoaMjw_o",
+    "title": "Buffett admits he paid too much for Kraft",
+    "tags": ["short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "lNuC9KCCw0w",
+    "title": "Buybacks make sense",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "JBZU6ySwIpc",
+    "title": "In ten years banks will be worth more money",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "isycig50ruQ",
+    "title": "Healthcare is a big problem to change",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "XtXjueScQ5Q",
+    "title": "Buffett proudest achievement",
+    "tags": ["relationship", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "UR22DrkkLJc",
+    "title": "Oil price plunge",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "b8fSPr2gcKQ",
+    "title": "Coronavirus and oil one-two punch on stock market",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "fHLe0CJ69mc",
+    "title": "Best ways to calculate value of company",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "uge2zJt_-Eo",
+    "title": "Machines don't bring much to the table when it comes to capital allocation",
+    "tags": ["short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "vr4yE46_ooI",
+    "title": "Why Buffett is sitting out big tech",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "WiJaDAjmclA",
+    "title": "Buffett on Apple over the years",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "m4hMh-Jugf4",
+    "title": "Apple makes its products indispensable",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "9kke_CGNpFE",
+    "title": "Buffett full birthday interview 31 Aug 2018",
+    "tags": ["long"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "MLyCdxc-wfA",
+    "title": "Warren Buffett and Jamie Dimon Interview 8 Jun 2018",
+    "tags": ["long"],
+    "channel": "industry",
+    "onCrsl": false
+  },
+  {
+    "id": "lg9jPLoeWJc",
+    "title": "Some people should not own stocks",
+    "tags": ["investing 101", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "10QoUi2PmNs",
+    "title": "Buying and holding index funds has worked",
+    "tags": ["short", "etf"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "wSIXEXIFWgY",
+    "title": "How to invest in index funds",
+    "tags": ["short", "etf"],
+    "channel": "",
+    "onCrsl": true
+  },
+  {
+    "id": "LtITDtZPYEw",
+    "title": "Bitcoin is an asset that creates nothing",
+    "tags": ["investing 101", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "S6XZjlfB4bQ",
+    "title": "Changing consumer habits hit Coke and Kraft Heinz",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "sdh3_TcyMxo",
+    "title": "Never sold a share of IBM",
+    "tags": ["short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "YWMmd7hlwNI",
+    "title": "Crypto will almost certainly come to a bad ending",
+    "tags": ["short"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "m7QdscwqNgQ",
+    "title": "I should have had more insights on Google",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "Mdj2zun8qvI",
+    "title": "A lot of possibilities with IBM Watson",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "V27VgTEcmWY",
+    "title": "Airline passengers are very price conscious",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "Gn3rTfo6Wbw",
+    "title": "I like airlines because they got bad century out of the way",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "xQn2fO1QNFU",
+    "title": "Wal Mart under a lot of pressure",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "fk0LSsRxO7g",
+    "title": "Don't sleepwalk through life",
+    "tags": ["relationship", "short"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "uMzg4ymIwE4",
+    "title": "Economists don't make money buying and selling stocks",
+    "tags": ["investing 101", "short"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "q862lngj034",
+    "title": "Negative rates distort everything",
+    "tags": ["investing 101", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "R18uHVHuHFQ",
+    "title": "Earning power is our annual goal",
+    "tags": ["short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "nh1SMwEfhw0",
+    "title": "See's Candies growth strategy",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "2c2-RANz3gk",
+    "title": "All investing is value investing",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "FEoqs-6Y68A",
+    "title": "Occidental bid is a bet on long oil",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "hbiBJh8G7FI",
+    "title": "Buffett explains print newspaper industry",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "1c_AzFDyqQA",
+    "title": "Long term investing and return expectations",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "JvEas_zZ4fM",
+    "title": "CNBC interview 25 Feb 2020",
+    "tags": ["long"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "2RbGDN9HWO4",
+    "title": "Buffett lay out history of US Economy",
+    "tags": ["investing 101", "long"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "g0OqkBp7VTU",
+    "title": "Buffett on politics",
+    "tags": ["short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "8vUnPVGBmU0",
+    "title": "What Buffett and Munger value most",
+    "tags": ["relationship", "short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "TUnq33D678k",
+    "title": "Charlie and I never had an argument",
+    "tags": ["relationship", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "4zpAgROp8dw",
+    "title": "Buffett on whether Berkshire will outperform S&P 500",
+    "tags": ["short"],
+    "channel": "yfinance",
+    "onCrsl": true
+  },
+  {
+    "id": "Vun9adRIRZs",
+    "title": "Buffett on Berkshire investment managers",
+    "tags": ["short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "i7XDC_nMu-s",
+    "title": "How to be a better investor",
+    "tags": ["investing 101", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "n9x8by0HjmA",
+    "title": "Berkshire wants a bigger piece of Apple",
+    "tags": ["industry", "short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "iFNOKk5DOeg",
+    "title": "Buffett on portfolio strategy",
+    "tags": ["short"],
+    "channel": "yfinance",
+    "onCrsl": false
+  },
+  {
+    "id": "CVzv7liXfFU",
+    "title": "I've never bought any IPO",
+    "tags": ["investing 101", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "u8ANHNU0Fng",
+    "title": "David Rubinstein interview Warren Buffett",
+    "tags": ["long"],
+    "channel": "bloomberg",
+    "onCrsl": true
+  },
+  {
+    "id": "uoaGaz-KDaw",
+    "title": "Tour Warren Buffet's office",
+    "tags": ["others"],
+    "channel": "",
+    "onCrsl": true
+  },
+  {
+    "id": "nhrcfZVBv_s",
+    "title": "Inside Buffett favorite Omaha steakhouse",
+    "tags": ["others"],
+    "channel": "",
+    "onCrsl": true
+  },
+  {
+    "id": "6XFwlNVRD5M",
+    "title": "Testing mattresses with Warren Buffett",
+    "tags": ["others"],
+    "channel": "",
+    "onCrsl": true
+  },
+  {
+    "id": "DjOXpbpPU-U",
+    "title": "Sweet nostalgia with Warren Buffett and Bill Gates",
+    "tags": ["others"],
+    "channel": "",
+    "onCrsl": true
+  },
+  {
+    "id": "Pqc56crs56s",
+    "title": "CNBC interview 25 Feb 2019",
+    "tags": ["long"],
+    "channel": "cnbc",
+    "onCrsl": true
+  },
+  {
+    "id": "XxSASkepKks",
+    "title": "A conversation University of Washington",
+    "tags": ["relationship", "long"],
+    "channel": "",
+    "onCrsl": true
+  },
+  {
+    "id": "xVOn371TCPo",
+    "title": "Charlie Rose interview 2011",
+    "tags": ["long"],
+    "channel": "",
+    "onCrsl": false
+  },
+  {
+    "id": "XkyEfqjbp8U",
+    "title": "Charlie Rose interview 2013",
+    "tags": ["long"],
+    "channel": "",
+    "onCrsl": false
+  }
+]

@@ -1,0 +1,16 @@
+.scroll-carousel {
+  width: 90%;
+  margin: auto;
+
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  
+  scroll-snap-type: x mandatory;
+
+  gap: 0.75rem;
+}
+
+.scroll-carousel-item-container {
+  scroll-snap-align: center;
+}

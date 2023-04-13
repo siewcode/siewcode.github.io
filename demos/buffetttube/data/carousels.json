@@ -1,0 +1,26 @@
+[
+  {
+    "carouselTitle": "Investing 101" ,
+    "category": "investing 101"
+  },
+  {
+    "carouselTitle": "Short" ,
+    "category": "short"
+  },
+  {
+    "carouselTitle": "Long" ,
+    "category": "long"
+  },
+  {
+    "carouselTitle": "Industry" ,
+    "category": "industry"
+  },
+  {
+    "carouselTitle": "Relationship" ,
+    "category": "relationship"
+  },
+  {
+    "carouselTitle": "Others" ,
+    "category": "others"
+  }
+]
