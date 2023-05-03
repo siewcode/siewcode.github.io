@@ -1,0 +1,15 @@
+{
+  "name": "SP500", 
+  "short_name": "SP500", 
+  "description": "Historical price and financial data for S&P500 constituents",
+  "start_url": "index.html", 
+  "display": "standalone", 
+  "theme_color": "white",
+  "icons": [ 
+    { 
+      "src": "img/AppIcon.png", 
+      "sizes": "512x512", 
+      "type": "image/png"
+    }
+  ]
+}
