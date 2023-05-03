@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.3.1
+Released 3 May 2023
+- Fix SP500 not correctly deploying to sub dir
+
 ## Version 0.3.0
 Releaased 3 May 2023
 - Add SP500 demo
