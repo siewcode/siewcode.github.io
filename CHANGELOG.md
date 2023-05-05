@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.3.2
+Released 5 May 2023
+- Fix bad or wrong description for tickers 
+
 ## Version 0.3.1
 Released 3 May 2023
 - Fix SP500 not correctly deploying to sub dir
