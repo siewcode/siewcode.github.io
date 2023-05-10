@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.4.0
+Released 10 May 2023
+- Add Object Detection using ML demo (MobilenetSSD)
+
 ## Version 0.3.2
 Released 5 May 2023
 - Fix bad or wrong description for tickers 
