@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="main.css">
+  <title>Object Detector</title>
+</head>
+<body>  
+  <section>
+    <div class="video-container constrain-width">
+      <video alt="webcam" id="video"
+        poster="./img/placeholder-video.png"
+      ></video>
+      <canvas id="canvas"></canvas>
+    </div>
+    <div class="img-btn-container">
+      <div class="detect-btn" id="detectBtn">
+        <span>Detect</span>
+        <div class="loader-sm"></div>
+      </div>
+    </div>
+  </section>
+  <div id="loading-screen">
+    <main>
+      <h2 class="app-title">Loading model...</h2>
+      <div class="loader-md"></div>
+    </main>
+  </div>
+
+  <!-- Scripts -->
+  <!-- <script src="../../libs/tf-v2.0.0.min.js"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+  <script src="main.js" type="module"></script>
+</body>
+</html>
