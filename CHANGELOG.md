@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.0.0
+Released 11 May 2023
+- Add demo section
+- Add favicon
+
 ## Version 0.4.0
 Released 10 May 2023
 - Add Object Detection using ML demo (MobilenetSSD)
