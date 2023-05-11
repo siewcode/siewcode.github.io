@@ -1,0 +1,125 @@
+/* Preflight */
+:root {
+  /* Safari fixes */
+  /* Fix abrupt increase in font size in iOS landscape */
+  -webkit-text-size-adjust: 100%;
+  /* Remove Safari gray bg when clicking link  */
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* 
+  DEMO SECTION 
+*/
+
+/* 
+  Section Description 
+*/
+.demo-description {
+  margin: 1rem auto;
+  margin-bottom: 3rem;
+  max-width: 40rem;
+  text-align: center;
+}
+
+.demo-description > h2 {
+  /* Make rough notation appear closer */
+  margin-bottom: -0.25rem;
+}
+
+.demo-description .rough-annotation {
+  /* Move is close to heading */
+  width: 5rem;
+}
+
+.demo-description > p {
+  margin-top: 0.5rem;
+}
+
+/*
+  Scroll Carousel
+*/
+.scroll-carousel {
+  width: 90%;
+  margin: auto;
+
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  
+  scroll-snap-type: x mandatory;
+
+  gap: 0.75rem;
+}
+
+.scroll-carousel-item-container {
+  scroll-snap-align: center;
+}
+
+/* 
+  Project Card
+*/
+.project-card {
+  /* Has no intrinsic size but based on element inside */
+  border: 1px solid gainsboro;
+  border-radius: 12px;
+  /* Shadow */
+  box-shadow: 2px 4px 8px gainsboro;
+  /* Stop element from spanning whole width */
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  /* Make space for other cards */
+  margin: 1rem 0.5rem;
+  /* Make space for jutting image */
+  margin-top: 5rem;
+}
+
+/* Image part */
+.project-card img {
+  width: 12rem;
+  /* Jut image out */
+  margin-top: -5rem;
+}
+
+/* Text part */
+.project-card > .text-container {
+  /* Text container width height is fixed */
+  width: 14rem;
+  height: 9rem;
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid gainsboro;
+  padding: 0.5rem;
+}
+
+.project-card main {
+  /* Text container has fixed height. main will change to fill height */
+  flex-grow: 1;
+  padding: 0.5rem;
+}
+
+.project-card h3, p {
+  /* Remove defaults */
+  margin: 0;
+  padding: 0;
+}
+
+.project-card p {
+  margin-top: 0.5rem;
+}
+
+.project-card footer {
+  text-align: center;
+  padding-top: 0.5rem;
+  border-top: 1px solid gainsboro;
+}
+
+.project-card a {
+  /* Remove defaults */
+  text-decoration: none;
+}

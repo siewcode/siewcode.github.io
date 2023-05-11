@@ -1,0 +1,26 @@
+[
+  {
+    "title": "BurgerMe",
+    "desc": "Single page website created using vanilla web",
+    "imgSrc": "./assets/img/burgerme-300x300.png",
+    "demoLink": "https://siewcode.github.io/demos/burgerme/"
+  },
+  {
+    "title": "BuffettTube",
+    "desc": "Video app for Buffett related videos created using vanilla web",
+    "imgSrc": "./assets/img/buffetttube-300x300.png",
+    "demoLink": "https://siewcode.github.io/demos/buffetttube/"
+  },
+  {
+    "title": "SP500",
+    "desc": "Historical price and financials for S&P500 for period 2010 to 2020 created using React",
+    "imgSrc": "./assets/img/sp500-300x300.png",
+    "demoLink": "https://siewcode.github.io/demos/sp500/"
+  },
+  {
+    "title": "Object Detector",
+    "desc": "Object recognition using machine learning",
+    "imgSrc": "./assets/img/objdetect-300x300.png",
+    "demoLink": "https://siewcode.github.io/demos/objdetect/"
+  }
+]
