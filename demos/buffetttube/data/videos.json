@@ -60,7 +60,7 @@
     "title": "Everything in valuation gets back to interest rate",
     "tags": ["investing 101", "short"],
     "channel": "",
-    "onCrsl": false
+    "onCrsl": true
   },
   {
     "id": "biKr34fDb0E",
@@ -424,6 +424,104 @@
     "title": "Charlie Rose interview 2013",
     "tags": ["long"],
     "channel": "",
+    "onCrsl": false
+  },
+  {
+    "id": "Z40yQoy9Nno",
+    "title": "Buffett on retirement",
+    "tags": ["short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "zpPcx1BsxNE",
+    "title": "Buffett on banking crisis fallout",
+    "tags": ["industry"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "rcszE4xf_QI",
+    "title": "I know where Apple is going to be but not car companies",
+    "tags": ["industry"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "UYrm0DZGhaQ",
+    "title": "ChatGPT and AI: Extraordinary but not sure if it's beneficial yet",
+    "tags": ["short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "Wl2i2NlycN4",
+    "title": "Raising stake in Japanese trading houses",
+    "tags": ["industry"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "X5Hs12lk8MQ",
+    "title": "Surround yourself with positive people",
+    "tags": ["relationship", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "kSz9oD3snbg",
+    "title": "TSMC: There's nobody in their league in chip business",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "4YYxAS4xeNM",
+    "title": "How to avoid mistakes in life and business",
+    "tags": ["relationship"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "bY7rxmq0lFA",
+    "title": "Other people doing dumb things is what creates good opportunities",
+    "tags": ["short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "cRVVB5eY4WY",
+    "title": "I don't sign a will until my children read it",
+    "tags": ["relationship"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "03sdWvFUg14",
+    "title": "Buffett and Munger on AI revolution",
+    "tags": ["industry"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "mcSScnXCJY4",
+    "title": "I'd give up a year of my life to eat what I like",
+    "tags": ["short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "GuTG6eo-LXA",
+    "title": "There's nothing like working for yourself",
+    "tags": ["short"],
+    "channel": "cnbc",
+    "onCrsl": false
+  },
+  {
+    "id": "vGVt8Y2ZdWI",
+    "title": "Bitcoin and crypto: We've had an explosion of gambling",
+    "tags": ["industry", "short"],
+    "channel": "cnbc",
     "onCrsl": false
   }
 ]
