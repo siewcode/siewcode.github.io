@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.0.1
+Released 29 Jul 2023
+- Remove dead video links from BuffetTube demo
+
 ## Version 1.0.0
 Released 11 May 2023
 - Add demo section
@@ -23,7 +27,7 @@ Releaased 3 May 2023
 
 ## Version 0.2.0
 Released 13 Apr 2023
-- Add Buffetttube demo
+- Add BuffettTube demo
 
 ## Version 0.1.0
 Released 14 June 2022
