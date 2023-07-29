@@ -49,25 +49,11 @@
     "onCrsl": true
   },
   {
-    "id": "-x8y6wRCV94",
-    "title": "Is business school worth it?",
-    "tags": ["investing 101", "short"],
-    "channel": "yfinance",
-    "onCrsl": true
-  },
-  {
     "id": "nPEY952ShIY",
     "title": "I've never tried to predict interest rates",
     "tags": ["investing 101", "short"],
     "channel": "yfinance",
     "onCrsl": true
-  },
-  {
-    "id": "WRmR-uXGxsI",
-    "title": "Buffett on Berkshire risk model",
-    "tags": ["investing 101", "short"],
-    "channel": "yfinance",
-    "onCrsl": false
   },
   {
     "id": "V6bQPoPvCoM",
@@ -80,13 +66,6 @@
     "id": "biKr34fDb0E",
     "title": "How Buffett decides if something is a good investment",
     "tags": ["investing 101", "short"],
-    "channel": "yfinance",
-    "onCrsl": false
-  },
-  {
-    "id": "vtmE_oWGprU",
-    "title": "Investing is a lot more competitive now",
-    "tags": ["short"],
     "channel": "yfinance",
     "onCrsl": false
   },
@@ -180,13 +159,6 @@
     "tags": ["industry", "short"],
     "channel": "yfinance",
     "onCrsl": false
-  },
-  {
-    "id": "fHLe0CJ69mc",
-    "title": "Best ways to calculate value of company",
-    "tags": ["investing 101", "short"],
-    "channel": "yfinance",
-    "onCrsl": true
   },
   {
     "id": "uge2zJt_-Eo",
@@ -343,38 +315,10 @@
     "onCrsl": false
   },
   {
-    "id": "nh1SMwEfhw0",
-    "title": "See's Candies growth strategy",
-    "tags": ["industry", "short"],
-    "channel": "yfinance",
-    "onCrsl": true
-  },
-  {
-    "id": "2c2-RANz3gk",
-    "title": "All investing is value investing",
-    "tags": ["investing 101", "short"],
-    "channel": "yfinance",
-    "onCrsl": false
-  },
-  {
     "id": "FEoqs-6Y68A",
     "title": "Occidental bid is a bet on long oil",
     "tags": ["industry", "short"],
     "channel": "cnbc",
-    "onCrsl": false
-  },
-  {
-    "id": "hbiBJh8G7FI",
-    "title": "Buffett explains print newspaper industry",
-    "tags": ["industry", "short"],
-    "channel": "yfinance",
-    "onCrsl": true
-  },
-  {
-    "id": "1c_AzFDyqQA",
-    "title": "Long term investing and return expectations",
-    "tags": ["investing 101", "short"],
-    "channel": "yfinance",
     "onCrsl": false
   },
   {
@@ -392,25 +336,11 @@
     "onCrsl": false
   },
   {
-    "id": "g0OqkBp7VTU",
-    "title": "Buffett on politics",
-    "tags": ["short"],
-    "channel": "yfinance",
-    "onCrsl": true
-  },
-  {
     "id": "8vUnPVGBmU0",
     "title": "What Buffett and Munger value most",
     "tags": ["relationship", "short"],
     "channel": "yfinance",
     "onCrsl": true
-  },
-  {
-    "id": "TUnq33D678k",
-    "title": "Charlie and I never had an argument",
-    "tags": ["relationship", "short"],
-    "channel": "yfinance",
-    "onCrsl": false
   },
   {
     "id": "4zpAgROp8dw",
@@ -422,27 +352,6 @@
   {
     "id": "Vun9adRIRZs",
     "title": "Buffett on Berkshire investment managers",
-    "tags": ["short"],
-    "channel": "yfinance",
-    "onCrsl": false
-  },
-  {
-    "id": "i7XDC_nMu-s",
-    "title": "How to be a better investor",
-    "tags": ["investing 101", "short"],
-    "channel": "yfinance",
-    "onCrsl": false
-  },
-  {
-    "id": "n9x8by0HjmA",
-    "title": "Berkshire wants a bigger piece of Apple",
-    "tags": ["industry", "short"],
-    "channel": "yfinance",
-    "onCrsl": false
-  },
-  {
-    "id": "iFNOKk5DOeg",
-    "title": "Buffett on portfolio strategy",
     "tags": ["short"],
     "channel": "yfinance",
     "onCrsl": false
